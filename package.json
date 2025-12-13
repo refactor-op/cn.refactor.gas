@@ -1,8 +1,8 @@
 {
   "name": "cn.refactor.gas",
-  "displayName": "Refactor Gameplay Attributes",
+  "displayName": "Refactor Gas",
   "version": "0.1.0",
-  "description": "Gameplay Attributes System (GAS) for Unity.",
+  "description": "Gas.",
   "unity": "2021.3",
   "license": "MIT",
   "repository": {
